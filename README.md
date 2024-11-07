@@ -1,2 +1,2 @@
 # git-github
-This is my first time with github
+This is Vaishnavi, using the github
